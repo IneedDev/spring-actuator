@@ -1,0 +1,8 @@
+[{
+  "color": "Red",
+  "type": "BMW"
+}, {
+  "color": "Red",
+  "type": "FIAT",
+  "price": "missing field in java object"
+}]
